@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<suite name="Suite1">
-     <!--菜单管理-->
-    <test name="demo" preserve-order="true">
-       <classes>
-          <class name="Control.login" /> 
-       </classes>
-    </test>
-</suite>
