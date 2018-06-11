@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9995" started-at="2018-05-21T10:29:19Z" finished-at="2018-05-21T10:29:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9995" started-at="2018-05-21T10:29:19Z" finished-at="2018-05-21T10:29:29Z">
+      <class name="com.chensen.test.loginTest">
+        <test-method status="PASS" signature="Asslogin()[pri:0, instance:com.chensen.test.loginTest@2fb3536e]" name="Asslogin" duration-ms="9041" started-at="2018-05-21T18:29:19Z" finished-at="2018-05-21T18:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Asslogin -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.chensen.test.loginTest@2fb3536e]" name="close" is-config="true" duration-ms="935" started-at="2018-05-21T18:29:28Z" finished-at="2018-05-21T18:29:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.chensen.test.loginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
